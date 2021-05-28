@@ -7,7 +7,7 @@
 #coding:gbk
 
 #第一个小项目：Rock-paper-scissors-lizard-Spock
-#作者：吴健
+#作者：寿子豪
 #日期：2021/5/26
 
 import random
